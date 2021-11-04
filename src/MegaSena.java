@@ -13,6 +13,7 @@ public class MegaSena {
             int number = generate.nextInt(60);
             System.out.println(number);
             i = i + 1;
+            // teste
             // ou i++;
         }
     }
